@@ -8,7 +8,7 @@ meta = [256, 50, 50];
 
 % Parameters
 scale = 1;                   % Scaling factor
-E = 0.8;                     % Elasticity parameter
+E = 0.8;                     % Elongation parameter
 L = [15, 2];                 % Correlation lengths for Gaussian fields
 c = [20, 5] / 100;           % Deformation coefficients for Gaussian fields
 
